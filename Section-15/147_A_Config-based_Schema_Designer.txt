@@ -1,0 +1,2 @@
+https://sql.toad.cz/
+https://dbml.dbdiagram.io/docs/
