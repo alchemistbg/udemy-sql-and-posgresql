@@ -1,0 +1,2 @@
+-- Problem description:
+-- Show the username of users who were tagged in caption or photo before January 7th, 2010. Also show the date they were tagged.
