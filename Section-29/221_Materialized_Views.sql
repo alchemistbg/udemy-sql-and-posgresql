@@ -1,0 +1,3 @@
+ -- Problem description:
+ -- For each week, show the number of likes that posts and comments received.
+ -- Use th post's and comment's created_at date, not when the like was received
