@@ -1,0 +1,3 @@
+-- The problem:
+-- Find the number of comments for each photo, where photo_id
+-- is less than 3 and the photo has more than 2 comments
